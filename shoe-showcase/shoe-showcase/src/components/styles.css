@@ -1,0 +1,24 @@
+.shoe-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+}
+
+.expensive {
+  background-color: #f8d7da;
+}
+
+.affordable {
+  background-color: #d4edda;
+}
+
+.shoe-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.shoe-img {
+  width: 200px;
+  height: 200px;
+}
